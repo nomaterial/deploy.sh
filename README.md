@@ -2,7 +2,7 @@
 
 ## 📌 Objectif
 
-Automatiser la création d'un utilisateur caché avec accès SSH par clé publique, persistance via systemd + cron fallback, pour des environnements de lab et de tests universitaires.
+Automatiser la création d'un utilisateur caché avec accès SSH par clé publique, persistance via systemd + cron fallback
 
 ---
 
