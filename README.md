@@ -67,8 +67,3 @@ sudo ./deploy.sh -k ~/.ssh/id_ed25519.pub -u stealthadmin
 
 Ce script est conçu uniquement pour des **environnements de test, d’audit, ou de simulation en laboratoire universitaire**. L’usage sans autorisation explicite constitue une infraction aux lois en vigueur.
 
----
-
-## ✒️ Auteur
-
-Projet académique à but pédagogique
